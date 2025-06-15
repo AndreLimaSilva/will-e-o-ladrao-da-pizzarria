@@ -5,13 +5,14 @@
   <property name="visitante" default="Aventureiro" />
 
   <start />
-  <page id="pagina1">
+  <page id="pagina1" bg_image="download_1_.jpeg">
     <agent
       id="Titulopag1"
       text="Will e o ladrão da pizzaria"
       x="center"
-      y="15"
+      y="35"
       font-size="30"
+      color="white"
     />
     <agent
       id="IniciodaHistoria"
@@ -19,6 +20,7 @@
       x="05"
       y="200"
       font-size="18"
+      color="white"
     />
     <agent
       id="new_agent"
@@ -26,6 +28,7 @@
       x="5"
       y="300"
       font-size="18"
+      color="white"
     />
     <agent
       id="foto da familia"
