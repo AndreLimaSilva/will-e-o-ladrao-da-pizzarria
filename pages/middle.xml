@@ -15,9 +15,8 @@
     y="130"
     font-size="18"
     width="550"
-    
   />
-   <agent
+  <agent
     id="parágrafo4"
     text="."
     color="white"
@@ -25,7 +24,6 @@
     y="130"
     font-size="18"
     width="550"
-    
   />
 
   <agent
