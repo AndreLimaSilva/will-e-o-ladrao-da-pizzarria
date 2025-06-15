@@ -6,7 +6,28 @@
 
   <start />
   <page id="pagina1">
-</page>
+    <agent
+      id="Titulopag1"
+      text="Will e o ladrão da pizzaria"
+      x="center"
+      y="15"
+      font-size="30"
+    />
+    <agent
+      id="IniciodaHistoria"
+      text="Essa é a história de Will, um garoto, como vários outros que existem por aí que curte filmes de mistério e videogames. Will estava ansioso pelo final de semana, mal podia esperar a sexta-feira para ir a pizzaria com sua família, e foi lá que Will protagonizou um episódio um tanto quanto... inusitado."
+      x="05"
+      y="200"
+      font-size="18"
+    />
+    <agent
+      id="new_agent"
+      text="Era noite de sexta-feira, Will e sua família chegaram na pizzaria por volta das 19:30 da noite, e logo chamaram o garçom para fazer seus pedidos."
+      x="5"
+      y="300"
+      font-size="18"
+    />
+  </page>
   <middle />
   <ending />
 </fable>
