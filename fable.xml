@@ -35,6 +35,14 @@
       x="60"
       y="400"
     />
+    <agent
+      id="fachadaPizzaria"
+      image="download.jpeg"
+      width="250"
+      height="180"
+      x="490"
+      y="400"
+    />
   </page>
   <middle />
   <ending />
