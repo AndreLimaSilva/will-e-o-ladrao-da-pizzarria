@@ -27,10 +27,14 @@
       y="300"
       font-size="18"
     />
-    <agent 
+    <agent
       id="foto da familia"
       image="chatgpt_image_15_de_jun_de_2025_15_32_35.png"
-      />
+      width="250"
+      height="180"
+      x="60"
+      y="400"
+    />
   </page>
   <middle />
   <ending />
