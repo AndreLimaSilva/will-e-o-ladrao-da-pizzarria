@@ -1,12 +1,18 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World"
+    text="Will e o ladrão da pizzaria"
     color="white"
     x="center"
-    y="center"
-    font-size="70"
+    y="100"
+    font-size="45"
   />
+  <agent 
+    id="autor"
+    text="Feito por André Lima Silva"
+    color="white"
+    x="center"
+    y="650"/>
 
   <agent
     id="next_page_text"
