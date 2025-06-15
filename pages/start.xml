@@ -7,12 +7,14 @@
     y="100"
     font-size="45"
   />
-  <agent 
+  <agent
     id="autor"
     text="Feito por André Lima Silva"
     color="white"
     x="center"
-    y="650"/>
+    y="650"
+    font-size="25"
+  />
 
   <agent
     id="next_page_text"
