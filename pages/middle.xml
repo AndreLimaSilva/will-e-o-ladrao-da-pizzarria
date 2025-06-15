@@ -9,11 +9,13 @@
   />
   <agent
     id="parágrafo3"
-    text="Will e sua familia comiam, se divertiam, um ambiente bem  agradável, até que, do nada, uma pessoa estranha entra na pizzaria"
+    text="Will e sua familia comiam, se divertiam, um ambiente bem  agradável, até que, do nada, uma pessoa estranha entra na pizzaria. O sujeito estava vestindo uma jaqueta jeans escura, óculos escuros e um boné vermelho (sim, ele estava vestido assim, numa pizzaria, em uma sexta-feira a noite."
     color="white"
     x="center"
-    y="center"
+    y="130"
     font-size="18"
+    width="550"
+    
   />
 
   <agent
