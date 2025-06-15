@@ -1,11 +1,19 @@
 <page id="middle" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World Middle"
+    text="Will e o ladrão da pizzaria"
+    color="white"
+    x="center"
+    y="15"
+    font-size="35"
+  />
+  <agent
+    id="parágrafo3"
+    text="Will e sua familia comiam, se divertiam, um ambiente bem  agradável, até que, do nada, uma pessoa estranha entra na pizzaria"
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="18"
   />
 
   <agent
