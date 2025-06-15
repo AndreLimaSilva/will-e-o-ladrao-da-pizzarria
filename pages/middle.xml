@@ -18,10 +18,19 @@
   />
   <agent
     id="parágrafo4"
-    text="Bom, essa pessoa entrou na pizzaria com um único propósito: ele vai até a mesa do caixa, mas ao invés de fazer o pedido, ele saca um canivete e anuncia o assalto, trazendo pânico aos clientes.  "
+    text="Bom, essa pessoa entrou na pizzaria com um único propósito: ele vai até a mesa do caixa, mas ao invés de fazer o pedido, ele saca um canivete e anuncia o assalto, trazendo pânico aos clientes."
     color="white"
     x="center"
     y="280"
+    font-size="18"
+    width="550"
+  />
+   <agent
+    id="anuncio do assalto"
+    text="- ISSO É UM ASSALTO, VAMO LOGO, PASSA TUDO!!!!"
+    color="white"
+    x="center"
+    y="380"
     font-size="18"
     width="550"
   />
