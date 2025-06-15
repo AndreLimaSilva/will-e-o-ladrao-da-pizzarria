@@ -17,6 +17,16 @@
     width="550"
     
   />
+   <agent
+    id="parágrafo4"
+    text="."
+    color="white"
+    x="center"
+    y="130"
+    font-size="18"
+    width="550"
+    
+  />
 
   <agent
     id="next_page_text"
